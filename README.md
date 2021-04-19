@@ -1,5 +1,5 @@
 # Pokemon_Python
-Pokemon Project, by Reut Hadad, Shahak Nir
+Pokemon Project by Reut Hadad, Shahak Nir
 
 <img src="/Pictures/OOP_EX3 Python.jpeg" height="70" width="350" >
 
